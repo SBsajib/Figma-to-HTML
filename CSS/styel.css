@@ -1233,7 +1233,7 @@ footer{
         
     }
     .line_about {
-        right: 0px;
+        right: -5px;
         bottom: -10px;
         transform: rotateY(190deg);
        
