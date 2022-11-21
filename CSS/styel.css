@@ -1233,9 +1233,10 @@ footer{
         
     }
     .line_about {
-        right: 0px;
-        bottom: 0px;
-        transform: rotateY(180deg);
+        right: 0
+            5px;
+        bottom: -10px;
+        transform: rotateY(190deg);
     }
     .about_text h3 {
         font-size: 25px;
@@ -1279,6 +1280,11 @@ footer{
         margin: auto;
         margin-bottom: 20px;
     }
+     
+    .img-fluid {
+    width: 100%;
+     }
+     
     .right_images {
         width: 100%;
     }
