@@ -1234,6 +1234,7 @@ footer{
     }
     .line_about {
         right: 0px;
+        margin-right:5px;
         bottom: -10px;
         transform: rotateY(190deg);
        
