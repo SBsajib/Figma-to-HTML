@@ -65,7 +65,7 @@ header{
 
 
 button:focus:not(:focus-visible) {
-    display: none;
+    
 }
 
 
