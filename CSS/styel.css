@@ -1214,7 +1214,6 @@ footer{
 
     .sms {
         top: 120px;
-        right: 0;
         margin-left: 40%;
         display: flex;
         flex-direction: row;
@@ -1230,10 +1229,11 @@ footer{
 
     .about_images {
         width: 100%;
-        padding: 0;
+        padding: 10px;
+        
     }
     .line_about {
-        margin-left: 60%;
+        right: 0px;
         bottom: 0px;
         transform: rotateY(180deg);
     }
@@ -1310,7 +1310,7 @@ footer{
     }
     
     .ss {
-        padding: 0px 30px;
+        padding: 0px 0px;
       
     }
 
@@ -1337,7 +1337,7 @@ footer{
    
 
     .por {
-        width: 80%;
+        width: 100%;
         margin: auto;
     }
     .portfolio_text p {
