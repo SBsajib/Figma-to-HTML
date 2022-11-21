@@ -1298,6 +1298,9 @@ footer{
         font-size: 35px;
     
     }
+     .logo_images {
+    max-width: 65px;
+     }
 
     .sound_section h2 {
         font-size: 33px;
