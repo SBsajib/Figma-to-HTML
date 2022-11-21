@@ -28,6 +28,11 @@ p{
     padding: 0;
 }
 
+
+  .img-fluid {
+    width: 100%;
+     }
+
 .coustom_btn{
 border-radius: 8px;
 padding: 10px 16px 10px 16px;
@@ -1233,11 +1238,10 @@ footer{
         
     }
     .line_about {
-        right: 0px;
-        margin-right:5px;
+        right: -10px;
+       position: absolute;
         bottom: -10px;
-        transform: rotateY(190deg);
-       
+        transform: rotateY(190deg); 
     }
     .about_text h3 {
         font-size: 25px;
@@ -1282,9 +1286,7 @@ footer{
         margin-bottom: 20px;
     }
      
-    .img-fluid {
-    width: 100%;
-     }
+  
      
     .right_images {
         width: 100%;
