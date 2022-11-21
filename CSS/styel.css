@@ -1209,13 +1209,13 @@ footer{
     }
 
     .phone {
-        margin-left: 40%;
+        margin-left: 30%;
     }
 
     .sms {
         top: 120px;
         right: 0;
-        margin-left: 60%;
+        margin-left: 40%;
         display: flex;
         flex-direction: row;
     }
@@ -1229,12 +1229,12 @@ footer{
     }
 
     .about_images {
-        width: 80%;
+        width: 100%;
         padding: 0;
     }
     .line_about {
-        margin-left: 50%;
-        bottom: -15px;
+        margin-left: 60%;
+        bottom: 0px;
         transform: rotateY(180deg);
     }
     .about_text h3 {
@@ -1337,7 +1337,7 @@ footer{
    
 
     .por {
-        width: 64%;
+        width: 80%;
         margin: auto;
     }
     .portfolio_text p {
