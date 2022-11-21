@@ -1235,11 +1235,13 @@ footer{
     .about_images {
         width: 100%;
         padding: 20px;
+        position:relative;
         
     }
     .line_about {
       
        position: absolute;
+        left: 0px;
         bottom: -10px;
         transform: rotateY(190deg); 
     }
