@@ -1233,13 +1233,14 @@ footer{
         padding: 0;
     }
     .line_about {
-        margin-left: 58%;
-        bottom: -20px;
+        margin-left: 50%;
+        bottom: -15px;
         transform: rotateY(180deg);
     }
     .about_text h3 {
         font-size: 25px;
         line-height: 35px;
+        margin-bottom:10px;
     }
 
     .about_text h4 {
@@ -1249,7 +1250,7 @@ footer{
     }
     .about_text p {
         
-        font-size: 15px;
+        font-size: 14px;
        
     }
     .service_text h4 {
